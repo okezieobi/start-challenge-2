@@ -1,0 +1,33 @@
+body {
+    
+}
+
+.content {
+    font-family: sans-serif;
+    border: none;
+    margin: 3%;
+    padding: 3%;
+    border-radius: 10px;
+    background: whitesmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.blue-color {
+    color: blue;
+}
+
+.main {
+    display: grid;
+    grid-gap: 2vw 2vh;
+    grid-template-columns: auto auto;
+    padding: 1vh 4vw;
+}
+
+.profile-img {
+    border-radius: 50%;
+}

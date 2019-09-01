@@ -1,0 +1,24 @@
+{
+  "name": "start-challenge-2",
+  "version": "1.0.0",
+  "description": "https://frankokezie.blogspot.com/2019/08/thank-you-flutterwave.html",
+  "main": "index.js",
+  "scripts": {
+    "views": "browser-sync -s --cwd -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okezieobi/start-challenge-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okezieobi/start-challenge-2/issues"
+  },
+  "homepage": "https://github.com/okezieobi/start-challenge-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
